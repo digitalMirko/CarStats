@@ -84,7 +84,7 @@
 	</dict>
 	<dict>
 		<key>Name</key>
-		<string>Mercedes Benz AMG GT Roadster C</string>
+		<string>Mercedes Benz AMG GT </string>
 		<key>Image</key>
 		<string>Mercedes</string>
 		<key>BHP</key>
@@ -102,7 +102,7 @@
 		<key>Name</key>
 		<string>Lamborghini Aventador</string>
 		<key>Image</key>
-		<string>Lamborghini</string>
+		<string>Lambo</string>
 		<key>BHP</key>
 		<string>730</string>
 		<key>0-60</key>
