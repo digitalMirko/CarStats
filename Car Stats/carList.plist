@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Aston Martin Vantage</string>
+		<key>Image</key>
+		<string>Aston</string>
+		<key>BHP</key>
+		<string>496</string>
+		<key>0-60</key>
+		<string>3.6</string>
+		<key>Top Speed</key>
+		<string>195</string>
+		<key>MPG</key>
+		<string>17</string>
+		<key>Price</key>
+		<string>$149,995</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Audi A8</string>
+		<key>Image</key>
+		<string>Audi</string>
+		<key>BHP</key>
+		<string>335</string>
+		<key>0-60</key>
+		<string>5.7</string>
+		<key>Top Speed</key>
+		<string>155</string>
+		<key>MPG</key>
+		<string>23</string>
+		<key>Price</key>
+		<string>$83,800</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Bentley Continental GT</string>
+		<key>Image</key>
+		<string>Bentley</string>
+		<key>BHP</key>
+		<string>626</string>
+		<key>0-60</key>
+		<string>3.7</string>
+		<key>Top Speed</key>
+		<string>207</string>
+		<key>MPG</key>
+		<string>19</string>
+		<key>Price</key>
+		<string>$276,730</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ferrari 488</string>
+		<key>Image</key>
+		<string>Ferrari</string>
+		<key>BHP</key>
+		<string>661</string>
+		<key>0-60</key>
+		<string>3.05</string>
+		<key>Top Speed</key>
+		<string>205</string>
+		<key>MPG</key>
+		<string>21</string>
+		<key>Price</key>
+		<string>$301,000</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jaguar XE</string>
+		<key>Image</key>
+		<string>Jaguar</string>
+		<key>BHP</key>
+		<string>296</string>
+		<key>0-60</key>
+		<string>5.55</string>
+		<key>Top Speed</key>
+		<string>155</string>
+		<key>MPG</key>
+		<string>26</string>
+		<key>Price</key>
+		<string>$53,400</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mercedes Benz AMG GT Roadster C</string>
+		<key>Image</key>
+		<string>Mercedes</string>
+		<key>BHP</key>
+		<string>549</string>
+		<key>0-60</key>
+		<string>3.7</string>
+		<key>Top Speed</key>
+		<string>196</string>
+		<key>MPG</key>
+		<string>21</string>
+		<key>Price</key>
+		<string>$159,845</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Lamborghini Aventador</string>
+		<key>Image</key>
+		<string>Lamborghini</string>
+		<key>BHP</key>
+		<string>730</string>
+		<key>0-60</key>
+		<string>3.0</string>
+		<key>Top Speed</key>
+		<string>218</string>
+		<key>MPG</key>
+		<string>9</string>
+		<key>Price</key>
+		<string>$417,826</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>McLaren 570GT</string>
+		<key>Image</key>
+		<string>McLaren</string>
+		<key>BHP</key>
+		<string>562</string>
+		<key>0-60</key>
+		<string>3.4</string>
+		<key>Top Speed</key>
+		<string>204</string>
+		<key>MPG</key>
+		<string>14</string>
+		<key>Price</key>
+		<string>$202,950</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Porsche 928 GTS</string>
+		<key>Image</key>
+		<string>Porsche</string>
+		<key>BHP</key>
+		<string>345</string>
+		<key>0-60</key>
+		<string>5.7</string>
+		<key>Top Speed</key>
+		<string>171</string>
+		<key>MPG</key>
+		<string>22.7</string>
+		<key>Price</key>
+		<string>$85,706</string>
+	</dict>
+</array>
+</plist>
