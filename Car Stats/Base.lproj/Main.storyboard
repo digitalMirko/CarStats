@@ -72,6 +72,9 @@
                                         <state key="normal" title="Random Car Stats">
                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
+                                        <connections>
+                                            <action selector="randomCarButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="4k3-XP-xwe"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                             </stackView>
@@ -92,6 +95,15 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="bhpLabel" destination="CGy-S9-NTk" id="3BW-Gh-7yQ"/>
+                        <outlet property="imageView" destination="RCW-j7-dWa" id="rPh-SQ-y8r"/>
+                        <outlet property="milesPerGallonLabel" destination="jVb-Ho-a95" id="evO-Ed-Ao3"/>
+                        <outlet property="nameLabel" destination="HsI-Vc-9cX" id="4b0-ZI-bHF"/>
+                        <outlet property="priceLabel" destination="xTE-tU-Z69" id="pK1-ua-Ttd"/>
+                        <outlet property="topSpeedLabel" destination="llb-JC-txU" id="uCD-fk-Sad"/>
+                        <outlet property="zeroToSixtyLabel" destination="Kba-fR-nBf" id="GLL-PJ-aVe"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
