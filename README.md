@@ -15,7 +15,6 @@ is chosed.
 In this demo the vehicles available are: Aston Martin Vantage, Audi A8, Bentley Continental GT, Ferrari 488, Jaguar XE,
 Mercedes Benz AMG GT Roadster, Lamborghini Aventador, McLaren 570GT, Porsche 928 GTS
 
-Coming soon:
 Details and the screen cap images of the app in use can be found on <a href="http://digitalmirko.com/iOSApps.html">Digital Mirko</a>.
 
 Screen Cap on a iPhone Xr device:(shown below)</br>
